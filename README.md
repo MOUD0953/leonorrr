@@ -516,16 +516,16 @@ hmm how should i start this hmmm i still remember the first day we met the first
     <!-- AUDIO ELEMENT (Romantic Melody Synthesizer Fallback / Web Audio API) -->
     <script>
         // Array holding 9 images (Base64 or fallback renderable URLs)
-        const photoData = [
-            "https://placehold.co/600x600/ffe4e6/881337?text=Leonor+Hero",
-            "https://placehold.co/600x600/ffe4e6/881337?text=First+Day+Met",
-            "https://placehold.co/600x600/ffe4e6/881337?text=The+Hum+Day",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Started+Dating",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Best+Friend",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Sweet+Smile",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Beautiful+Laughter",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Precious+Moments",
-            "https://placehold.co/600x600/ffe4e6/881337?text=Forever+Together"
+const photoData = [
+            "pic1.jpg",
+            "pic2.jpg",
+            "pic3.jpg",
+            "pic4.jpg",
+            "pic5.jpg",
+            "pic6.jpg",
+            "pic7.jpg",
+            "pic8.jpg",
+            "pic9.jpg"
         ];
 
         let currentLightboxIndex = 0;
